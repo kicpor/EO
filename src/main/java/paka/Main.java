@@ -11,6 +11,9 @@ public class Main {
         WebDriver driver;
 
         driver = new ChromeDriver(options);
+
+
+
     }
     private static String myMethod(){
             return "my string";
